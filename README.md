@@ -1,4 +1,4 @@
-# ICSE_Submit
+# Detecting Missing Information of Questions in Q&A Chatrooms
 This is a replication package for "Detecting Missing Information of Questions in Q&A Chatrooms".
 
 Goal: Automatically assess the quality of the questions in developer chatrooms by detecting missing information (ETD and PS)
